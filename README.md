@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Martin Kimu
+- 👋 Hello, I’m Martin Kimu
 - 👀 I’m interested in Full Stack Web Development. I'm also a Web 3 Enthusiast.
 - 🌱 I’m currently learning React JS, Vue and Django
 - 💞️ I’m looking to collaborate on web development projects
